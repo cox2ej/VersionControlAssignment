@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PI1rZzWAUnib3Hwe1rTcRsR62JWoQN7ev5LLCN31XhDANpyySoyAClqH5PvyeIO/S3qlgRsuxvxL12tkC9CE2g==",
+  "dgSpecHash": "lBZtfHk1GQ0Vmc/R/rZL6DUKyVJsOBFTyaLg9N07bms9feC2d30f8RHMSu7LYOzphPgDyYdplVK37j1XJxtEzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
+  "projectFilePath": "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cloem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\cloem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

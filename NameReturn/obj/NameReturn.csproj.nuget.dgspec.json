@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj": {}
+    "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj": {
+    "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
+        "projectUniqueName": "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
         "projectName": "NameReturn",
-        "projectPath": "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
+        "projectPath": "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\NameReturn.csproj",
         "packagesPath": "C:\\Users\\cloem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\obj\\",
+        "outputPath": "c:\\Users\\cloem\\coreapps\\VersionControlAssignment\\NameReturn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
